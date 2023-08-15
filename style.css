@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body{
+
+  background-color: rgb(185, 122, 39);
+}
+
+h1, h2{
+  background-color: rgb(214, 172, 6);
+  color:rgb(14, 79, 38);
+  text-align: center;
+}
+
+a, li{
+color: rgb(6, 53, 8);
+display: flex;
+justify-content: center;
+
+}
+img{
+  height: 200px;
+  width: 300px;
+  justify-content: center;
+ 
+}
